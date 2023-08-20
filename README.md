@@ -17,11 +17,11 @@ This repository contains the code and resources for a movie recommender project.
 Movie recommendation systems play a crucial role in helping users discover new movies they might enjoy. This project focuses on developing a recommendation system using collaborative filtering techniques to suggest personalized movie recommendations. Natural Language Processing - Stemming, CountVectorization are used in this project.
 
 ## Dataset
-We provide training and test datasets that include user ratings for various movies. The dataset can be found [here]([link_to_dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)). <!-- Provide a link to the dataset if it's publicly available -->
+We provide training and test datasets that include user ratings for various movies. The dataset can be found [here]([(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata])). <!-- Provide a link to the dataset if it's publicly available -->
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
+2. Navigate to the project directory: `cd your-repository
 
 ## Usage
 1. Download the dataset and place it in the appropriate directory.
