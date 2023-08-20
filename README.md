@@ -1,6 +1,6 @@
 # Movie Recommender Project
 
-![Movie Recommender](["C:\Users\HP\Downloads\movie recemmonder project.png"](https://developer-blogs.nvidia.com/wp-content/uploads/2021/04/Whats-recommendation-system_Pic-2.png)) <!-- Replace with an image relevant to your project -->
+![Movie Recommender](https://developer-blogs.nvidia.com/wp-content/uploads/2021/04/Whats-recommendation-system_Pic-2.png) <!-- Replace with an image relevant to your project -->
 
 This repository contains the code and resources for a movie recommender project. The goal of this project is to build a recommendation system that suggests movies to users based on their preferences and viewing history.
 
